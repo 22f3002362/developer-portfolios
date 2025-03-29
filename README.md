@@ -84,6 +84,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ajink Gupta](https://ajinkgupta.vercel.app)
 - [Akash Balasubhramanyam](https://akashblsbrmnm.github.io) [C Developer]
 - [Akash Rajpurohit](https://akashrajpurohit.com)
+- [Akarsh Gupta](https://akarsh-gupta.vercel.app)
 - [Akhil Surapuram](https://surapuramakhil.github.io) [Sofware Engineer & Data Enthusiast]
 - [Akhshy Ganesh](https://akhshyganesh.github.io/) [Full-Stack Developer | Solution Architect]
 - [Akira Yoshiro](https://gungho0619.vercel.app) [Full-Stack Developer Web | Blockchain]
